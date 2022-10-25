@@ -7,10 +7,9 @@ Right now my passion is Fivem coding.
 -------------------
 
 ## Join my Discord Server
-<a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
-<a href="https://discord.com/invite/w7B5nKB/">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a>
+<a href="https://discord.gg/ckYfQWDKe7">![DiscordServer](https://img.shields.io/discord/1034349935249858662?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a>
 
- ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+ ![Discord](https://img.shields.io/badge/Swompen%230646-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
 

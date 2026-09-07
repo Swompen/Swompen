@@ -46,9 +46,4 @@ gameplay scripts in Lua.
 
 ## Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Swompen&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swompen&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="160" />
-</p>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swompen&theme=github-dark-blue&hide_border=true" height="160" />
